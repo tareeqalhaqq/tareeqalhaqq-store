@@ -1,22 +1,20 @@
 [
     {
-        "id": "book-001",
         "title": "Benefits of Forty Hadeeth of Imam An Nawawi",
         "author": "Shaykh al-Uthaymin",
         "language": "English",
         "description": "A comprehensive list of the benefits of forty important prophetic traditions",
-        "filename": "Benefits-of-Forty-Ahadeeth-Sh.-al-Uthaymeen.pdf",
-        "downloadURL": "https://drive.google.com/uc?export=download&id=1LRcJOUs_ShDR_lmEwRoVq_33lVeFD5JK",
-        "category": "Hadith",
+        "file_name": "Benefits-of-Forty-Ahadeeth-Sh.-al-Uthaymeen.pdf",
+        "download_url": "https://drive.google.com/uc?export=download&id=1PKJN9MCfh3e2QF7jL1RnHYS4BOjOiOs3",
+        "category": "Hadith"
     },
     {
-        "id": "book-002",
         "title": "Kitab al-Tawhid",
         "author": "Shaykh Muhammad ibn Abd al-Wahhab",
         "language": "English",
         "description": "The Book of Tawhid (Monotheism)",
-        "filename": "Kitab-At-Tawhid.pdf",
-        "downloadURL": "https://drive.google.com/uc?export=download&id=1LRcJOUs_ShDR_lmEwRoVq_33lVeFD5JK",
-        "category": "Aqeedah",
+        "file_name": "Kitab-At-Tawhid.pdf",
+        "download_url": "https://drive.google.com/uc?export=download&id=1LRcJOUs_ShDR_lmEwRoVq_33lVeFD5JK",
+        "category": "Aqeedah"
     }
 ]
